@@ -6,8 +6,8 @@ This project contains two primary applications, RHexSwing3D and RHexCast3D, that
 
 ### An example of static output from RHexSwing3D
 
-![Swing example static plot](SwingExample.png)
+![Swing example static plot](SwingExampleCrop.png)
 
 ### And one from RHexCast3D
 
-![Swing example static plot](CastExample.png)
+![Swing example static plot](CastExampleCrop.png)
