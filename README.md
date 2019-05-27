@@ -18,7 +18,7 @@ Contains the Steelhead Runs Google Earth overlay and a collection of steelhead r
 
 ### A still from the overlay
 
-![Overlay detail](SwingExampleCrop.png)
+![Overlay detail](SteelheadRuns_NW_OR_small.jpg)
 
 ### And a map detail
 
