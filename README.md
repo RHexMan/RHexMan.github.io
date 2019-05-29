@@ -6,7 +6,7 @@ This project contains two primary applications, RHexSwing3D and RHexCast3D, that
 
 ### An example of static output from RHexSwing3D
 
-![Swing example static plot](SwingExampleCrop.png)
+<img src="SwingExampleCrop.png" width="600">
 
 ## [Steelhead](https://rhexman.github.io/Steelhead)
 
@@ -14,10 +14,12 @@ Contains the Steelhead Runs Google Earth overlay and a collection of steelhead r
 
 ### A still from the overlay
 
-![Overlay detail](SteelheadRuns_NE_small.jpg)
+<img src="SteelheadRuns_NE.jpg" width="600">
 
 ### And a map detail
 
+<img src="Chetco_1_Brookings_Crop.png" width="600">
+
+
 ![Map detail](Chetco_1_Brookings_Crop.png)
 
-<img src="Assets/icon.png" width="200">
