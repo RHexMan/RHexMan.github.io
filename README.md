@@ -8,18 +8,16 @@ This project contains two primary applications, RHexSwing3D and RHexCast3D, that
 
 ![Swing example static plot](SwingExampleCrop.png)
 
-### And one from RHexCast3D
-
-![Swing example static plot](CastExampleCrop.png)
-
 ## [Steelhead](https://rhexman.github.io/Steelhead)
 
 Contains the Steelhead Runs Google Earth overlay and a collection of steelhead rivers fishing maps.
 
 ### A still from the overlay
 
-![Overlay detail](SteelheadRuns_NW_OR_small.jpg)
+![Overlay detail](SteelheadRuns_NE_small.jpg)
 
 ### And a map detail
 
-![Map detail](CastExampleCrop.png)
+![Map detail](Chetco_1_Brookings_Crop.png)
+
+<img src="Assets/icon.png" width="200">
