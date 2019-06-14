@@ -26,3 +26,14 @@ Contains the Steelhead Runs Google Earth overlay and a collection of steelhead r
 <p align="center">
 <img src="Chetco_1_Brookings_Crop.png" width="600">
 </p>
+
+
+## [Trout](https://rhexman.github.io/Trout)
+
+Trying to make sense of the bugs trout eat, and what that means for the angler.  Includes a novel spatio-temporal form of hatch chart and supporting discussion.
+
+### A fragment from the mayfly emergence chart
+
+<p align="center">
+<img src="MayflyChartFragment.png" width="600">
+</p>
