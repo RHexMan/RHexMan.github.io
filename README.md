@@ -30,7 +30,7 @@ Contains the Steelhead Runs Google Earth overlay and a collection of steelhead r
 
 ## [Trout](https://rhexman.github.io/Trout)
 
-Trying to make sense of the bugs trout eat, and what that means for the angler.  Includes a novel spatio-temporal form of hatch chart and supporting discussion.
+Trying to make sense of the bugs trout eat, and what that means for the fly-fisher.  Includes a novel spatio-temporal form of hatch chart and supporting discussion.  Also includes two longer documents that are practical keys to the insects that are of particular interest to selectively feeding California trout, and therefore, also of interest to the angler.
 
 ### A fragment from the mayfly emergence chart
 
